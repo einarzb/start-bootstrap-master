@@ -51,3 +51,21 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+.navbar-brand {
+  margin-left: 60px;
+  font-size: 26px;
+}
+
+.btn {
+  width:190px;
+  height: 60px;
+  font-size: 24px;
+}
+
+.nav {
+  font-size: 16px;
+}
+.navbar-right {
+  margin-right: 60px;
+}
